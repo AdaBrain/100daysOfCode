@@ -4,7 +4,7 @@
 
 **Today's Progress**: -
 
-**Thoughts:** We would to complete the state concept in Vue before we move to React!
+**Thoughts:** We would like to complete the state concept in Vue before we move to React!
 
 **Link to work:** -
 
