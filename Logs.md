@@ -2,7 +2,7 @@
 
 ### Day 0: April 16, 2022
 
-**Today's Progress**: -
+**Today's Progress**: We have done Vue state concepts with mutations and how to use it in components
 
 **Thoughts:** We would like to complete the state concept in Vue before we move to React!
 
