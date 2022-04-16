@@ -6,6 +6,6 @@
 
 **Thoughts:** We would to complete the state concept in Vue before we move to React!
 
-**Link to work:** -
+**Link to work:** [Instra Project](https://github.com/AdaBrain/instra)
 
 ---
