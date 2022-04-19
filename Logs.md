@@ -19,3 +19,14 @@
 **Link to work:** [lfssteel project](https://gitlab.com/dynamicprostudio/vvip_lfssteel/-/blob/main/log.md)
 
 ---
+
+### Day 2: April 19, 2022
+
+**Today's Progress**: I start my new project with very fresh idea, after I started the challenge #100daysOfCode I posted reminder image for participants in my discord server
+so, I don't want to create it everyday then I decide to build an automatic image generator I just start this project hope I will finish the project fast as fast possible because its scope is far from my main project but I think this possible!
+
+**Thoughts:** Today I spent time for this project more than my main hahahaha!
+
+**Link to work:** N/A
+
+---
