@@ -30,3 +30,16 @@ so, I don't want to create it everyday then I decide to build an automatic image
 **Link to work:** N/A
 
 ---
+
+### Day 2: April 20, 2022
+
+**Today's Progress**: Today I can handle everything on my canvas in components. and I  have an hour left for today.
+
+**Thoughts:** Todays
+1. Save a canvas to png image
+2. prepare 100 images generation
+3. Layout right side.
+
+**Link to work:** [Image Generator](https://github.com/adadesions/ImageGenerator)
+
+---
