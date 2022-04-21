@@ -31,7 +31,7 @@ so, I don't want to create it everyday then I decide to build an automatic image
 
 ---
 
-### Day 2: April 20, 2022
+### Day 3: April 20, 2022
 
 **Today's Progress**: Today I can handle everything on my canvas in components. and I  have an hour left for today.
 
@@ -39,6 +39,19 @@ so, I don't want to create it everyday then I decide to build an automatic image
 1. Save a canvas to png image
 2. prepare 100 images generation
 3. Layout right side.
+
+**Link to work:** [Image Generator](https://github.com/adadesions/ImageGenerator)
+
+---
+
+### Day 4: April 21, 2022
+
+**Today's Progress**: 
+- Restyle canvas layout, support more with other viewports
+- Downloadable to png file
+- Can change the day! (next, previous)
+
+**Thoughts:** Awesome it almost done, just left ramdomly BG after click next or previous button.
 
 **Link to work:** [Image Generator](https://github.com/adadesions/ImageGenerator)
 
